@@ -1,0 +1,38 @@
+.avatars {
+    display: flex;
+    padding-left: 2rem;
+}
+
+.avatars img {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    border: 4px solid green;
+    margin: 0 0 0 -2rem;
+}
+
+body {
+    background-color: black;
+    font-family: system-ui;
+    display: grid;
+}
+
+p {
+    color: white;
+    display: block;
+}
+
+h1 {
+    color: white;
+    display: block;
+}
+
+h2 {
+    color: white;
+    display: block;
+}
+
+span {
+    color: white;
+    display: block;
+}
